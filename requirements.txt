@@ -1,0 +1,20 @@
+Requirement for Project file:
+
+This file contains the list of packages required for the project.
+
+Use this code to install the packages in a virtual environment:
+
+pip install numpy pandas seaborn matplotlib plotly wordcloud openpyxl
+
+pandas, numpy, matplotlib, seaborn, openpyxl, plotly, wordcloud
+
+To activate the virtual environment in, use in terminal:
+
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
+#       Then
+.\my_env1\Scripts\Activate.ps1
+
+
+
+
+
